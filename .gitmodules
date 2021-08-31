@@ -1,0 +1,6 @@
+[submodule "SmithedCore"]
+	path = SmithedCore
+	url = https://github.com/TheNuclearNexus/SmithedCore.git
+[submodule "SmithedCrafter"]
+	path = SmithedCrafter
+	url = https://github.com/TheNuclearNexus/SmithedCrafter.git
